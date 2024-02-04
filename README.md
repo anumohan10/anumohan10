@@ -1,4 +1,4 @@
-# Hi there! I'm Anusree Mohanan 👋
+# Hi there! I'm Anusree 👋
 
 ## 🎓 Education
 - Master of Science in Information Systems, Northeastern University, Boston (Expected May 2025)
@@ -23,7 +23,7 @@
 - **Telecom Churn Analysis**: Achieved 95% accuracy in predictive modeling for customer retention strategies.
 
 ## 🌐 Let's Connect!
-- [LinkedIn](Your-LinkedIn-URL)
+- [LinkedIn]([Your-LinkedIn-URL](https://www.linkedin.com/in/anusree-mohanan/))
 - 📧 [Email](mailto:mohanan.a@northeastern.edu)
 
 I'm transitioning from data engineering to roles in data analytics and product management. I'm currently seeking Summer 2024 internships in the United States, where I can bring my data prowess and passion for product development to a dynamic team.
