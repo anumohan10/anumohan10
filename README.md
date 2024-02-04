@@ -16,15 +16,20 @@
 - **Cloud**: GCP, AWS, Azure
 
 ## 📝 Publications
-- "Stock Market Prediction Using Machine Learning Techniques" in IJSART Volume 6 Issue 1, January 2020
+- ["Stock Market Prediction Using Machine Learning Techniques" in IJSART Volume 6 Issue 1, January 2020] (https://ijsart.com/Home/IssueDetail?id=35674)
 
 ## 📊 Projects
 - **Stock Market Prediction**: Developed a LSTM model for real-time trend prediction with 97% accuracy.
 - **Telecom Churn Analysis**: Achieved 95% accuracy in predictive modeling for customer retention strategies.
+- **Ecommerce Application**: Developed a Full Stack Application on E-Commerce software that is similar to Amazon.
+- **Reddit Scrapper**:
+- **Online Food Ordering System**:
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)
 - 📧 [Email](mailto:mohanan.a@northeastern.edu)
+- [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)
 
-I'm transitioning from data engineering to roles in data analytics and product management. I'm currently seeking Summer 2024 internships in the United States, where I can bring my data prowess and passion for product development to a dynamic team.
+
+I'm transitioning from data engineering to roles in data analytics and product management. 
+I'm currently seeking Summer 2024 internships in the United States, where I can bring my data prowess and passion for product development to a dynamic team.
 
