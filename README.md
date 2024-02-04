@@ -16,7 +16,7 @@
 - **Cloud**: GCP, AWS, Azure
 
 ## 📝 Publications
-- ["Stock Market Prediction Using Machine Learning Techniques" in IJSART Volume 6 Issue 1, January 2020] (https://ijsart.com/Home/IssueDetail?id=35674)
+- ["Stock Market Prediction Using Machine Learning Techniques" in IJSART Volume 6 Issue 1, January 2020](https://ijsart.com/Home/IssueDetail?id=35674)
 
 ## 📊 Projects
 - **Stock Market Prediction**: Developed a LSTM model for real-time trend prediction with 97% accuracy.
