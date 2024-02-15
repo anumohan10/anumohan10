@@ -22,8 +22,8 @@
 - **Stock Market Prediction**: Developed a LSTM model for real-time trend prediction with 97% accuracy.
 - **Telecom Churn Analysis**: Achieved 95% accuracy in predictive modeling for customer retention strategies.
 - **Ecommerce Application**: Developed a Full Stack Application on E-Commerce software that is similar to Amazon.
-- **Reddit Scrapper**:
-- **Online Food Ordering System**:
+- **Reddit Scrapper**: Engineered a sophisticated tool to efficiently scrape, analyze, and compile data from various Reddit subreddits, leveraging advanced algorithms for real-time sentiment analysis and trend spotting.
+- **Online Food Ordering System**: Launched a dynamic and user-friendly online platform for food ordering and delivery, incorporating intuitive UI/UX design, secure payment gateways, and real-time order tracking to enhance customer satisfaction and streamline operations.
 
 ## 🌐 Let's Connect!
 - 📧 [Email](mailto:mohanan.a@northeastern.edu)
