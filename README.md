@@ -30,6 +30,6 @@
 - [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)
 
 
-I'm transitioning from data engineering to roles in data analytics and product management. 
+I'm transitioning from data engineering to roles in product management. 
 I'm currently seeking Summer 2024 internships in the United States, where I can bring my data prowess and passion for product development to a dynamic team.
 
