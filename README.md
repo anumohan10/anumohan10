@@ -1,36 +1,88 @@
+
 # Hi there! I'm Anusree 👋
 
+Data-driven and solution-oriented, I specialize in data engineering, analytics, and product development. I'm currently seeking **full-time opportunities** starting **August 2025** to build scalable, impactful solutions with intelligent systems.
+
+---
+
 ## 🎓 Education
-- Master of Science in Information Systems, Northeastern University, Boston (Expected May 2025)
-- Bachelor of Engineering in Computer Engineering, University of Mumbai (August 2016 – November 2020)
+**M.S. in Information Systems**, Northeastern University, Boston  
+📅 *Expected August 2025*  
 
-## 👩‍💼 Professional Experience
-- Data Engineer at LTIMindtree, specializing in data pipeline architecture, performance optimization, and collaborative project management.
-- Big Data Analyst Intern at Norconsult Telematics, skilled in SQL queries, data analytics, and dashboard creation with Tableau.
+**B.E. in Computer Engineering**, University of Mumbai  
+📅 *August 2016 – November 2020*
 
-## 🛠 Technical Skills
-- **Languages**: Python, Java, C, Scala, TypeScript, R
-- **Big Data Technologies**: Hadoop, Apache Spark, Hive, Apache Kafka, Airflow
-- **Data Analysis Tools**: SQL, Oracle DB, PostgreSQL, MongoDB, Tableau, PowerBI
-- **Libraries**: NumPy, Pandas, PySpark, PyTorch, Keras, TensorFlow
-- **Cloud**: GCP, AWS, Azure
+---
 
-## 📝 Publications
-- ["Stock Market Prediction Using Machine Learning Techniques" in IJSART Volume 6 Issue 1, January 2020](https://ijsart.com/Home/IssueDetail?id=35674)
+## 👩‍💼 Experience
+
+**Data Analyst Intern** – *BlueCrest, USA*  
+📅 Jul 2024 – Dec 2024  
+- Built ETL workflows using Azure Synapse to audit warehouse and order data  
+- Created Power BI dashboards reducing inventory overstock by 20%  
+- Automated daily pick lists, cutting manual work by 50%  
+- Audited 2000+ records for consistency using SQL and Excel  
+
+**Data Engineer** – *LTIMindtree, India*  
+📅 Dec 2021 – Aug 2023  
+- Developed scalable ELT pipelines using Python, Scala, and Talend  
+- Improved ETL performance by 30% and integrated ML models  
+- Designed Tableau dashboards to monitor 500M+ transactions  
+- Reduced data load errors by 90%  
+
+**Big Data Engineer** – *Hexaware Technologies, India*  
+📅 Jan 2021 – Nov 2021  
+- Automated workflows for 50+ healthcare products  
+- Optimized Hive pipelines for terabyte-scale processing  
+- Created Power BI dashboards for sales trends and anomalies  
+
+---
+
+## 🛠 Skills
+**Languages**: Python, Java, SQL, Scala, R, TypeScript  
+**Big Data**: Hadoop, Spark, Hive, Airflow, Talend, Snowflake  
+**BI & DB**: SQL Server, PostgreSQL, Oracle DB, Tableau, Power BI  
+**Cloud**: GCP, AWS, Azure  
+**Tools**: Git, Streamlit, dbt, Alteryx, Excel  
+
+---
 
 ## 📊 Projects
-- **Stock Market Prediction**: Developed a LSTM model for real-time trend prediction with 97% accuracy.
-- **Telecom Churn Analysis**: Achieved 95% accuracy in predictive modeling for customer retention strategies.
-- **Telecom Customer Insights and Retention Analysis: An AutoML Approach**: This project leverages AutoML to accurately predict telecom churn, employing data preprocessing, feature engineering, and advanced analytics like SHAP interpretation. Utilizing H2O AutoML for model optimization, it delivers actionable insights for customer retention, transforming telecom analytics with data-driven intelligence to enhance customer loyalty.
-- **Ecommerce Application**: Developed a Full Stack Application on E-Commerce software that is similar to Amazon.
-- **Reddit Scrapper**: Engineered a sophisticated tool to efficiently scrape, analyze, and compile data from various Reddit subreddits, leveraging advanced algorithms for real-time sentiment analysis and trend spotting.
-- **Online Food Ordering System**: Launched a dynamic and user-friendly online platform for food ordering and delivery, incorporating intuitive UI/UX design, secure payment gateways, and real-time order tracking to enhance customer satisfaction and streamline operations.
 
-## 🌐 Let's Connect!
-- 📧 [Email](mailto:mohanan.a@northeastern.edu)
-- [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)
+**SkillPath AI**  
+- AI tool mapping resumes to learning paths using NLP & RAG  
+- Reduced course search time by 50% with personalized suggestions  
 
+**Stock Market Prediction**  
+- Built LSTM-based model with 97% accuracy for daily forecasts  
+- Published in *IJSART, Jan 2020*  
 
-I'm transitioning from data engineering to roles in product management. 
-I'm currently seeking Summer 2024 internships in the United States, where I can bring my data prowess and passion for product development to a dynamic team.
+**Telecom Churn Analysis**  
+- Achieved 95% accuracy with AutoML and SHAP explainability  
+- Delivered actionable insights for retention  
 
+**Urban Collision Analytics**  
+- Cleaned and visualized 2.4M+ traffic records  
+- Created geospatial dashboards for 3 major US cities  
+
+**E-Commerce App**  
+- Developed Amazon-like shopping platform with secure payments  
+
+**Reddit Scraper**  
+- Built a tool for real-time sentiment and trend analysis on subreddits  
+
+**Online Food Ordering System**  
+- Launched an end-to-end platform with live tracking and secure checkout  
+
+---
+
+## 📝 Publication
+📄 *"Stock Market Prediction Using ML Techniques"*  
+IJSART, Volume 6, Issue 1 – Jan 2020
+
+---
+
+## 🌐 Let’s Connect
+📧 mohanan.a@northeastern.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+💻 [GitHub](https://github.com/your-username)
