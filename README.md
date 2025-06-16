@@ -7,7 +7,7 @@ Data-driven and solution-oriented, I specialize in data engineering, analytics, 
 
 ## 🎓 Education
 **M.S. in Information Systems**, Northeastern University, Boston  
-📅 *Expected August 2025*  
+📅 *Expected December 2025*  
 
 **B.E. in Computer Engineering**, University of Mumbai  
 📅 *August 2016 – November 2020*
@@ -33,8 +33,8 @@ Data-driven and solution-oriented, I specialize in data engineering, analytics, 
 **Big Data Engineer** – *Hexaware Technologies, India*  
 📅 Jan 2021 – Nov 2021  
 - Automated workflows for 50+ healthcare products  
-- Optimized Hive pipelines for terabyte-scale processing  
-- Created Power BI dashboards for sales trends and anomalies  
+- Optimized Snowflake pipelines for terabyte-scale processing  
+- Created AWS QuickSight dashboards for sales trends and anomalies  
 
 ---
 
