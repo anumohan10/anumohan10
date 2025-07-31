@@ -1,7 +1,7 @@
 
 # Hi there! I'm Anusree 👋
 
-Data-driven and solution-oriented, I specialize in data engineering, analytics, and product development. I'm currently seeking **full-time opportunities** starting **August 2025** to build scalable, impactful solutions with intelligent systems.
+Data-driven and solution-oriented, I specialize in data engineering, analytics, and product development. I'm currently seeking **full-time opportunities** starting **December 2025** to build scalable, impactful solutions with intelligent systems.
 
 ---
 
