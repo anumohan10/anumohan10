@@ -34,7 +34,7 @@ Data-driven and solution-oriented, I specialize in data engineering, analytics, 
 📅 Jan 2021 – Nov 2021  
 - Automated workflows for 50+ healthcare products  
 - Optimized Snowflake pipelines for terabyte-scale processing  
-- Created AWS QuickSight dashboards for sales trends and anomalies  
+- Created Power BI dashboards for sales trends and anomalies  
 
 ---
 
