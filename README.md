@@ -1,77 +1,145 @@
 # Hi there! 👋 I'm Anusree Mohanan
 
-🎓 Master’s student in Information Systems at Northeastern University, Boston, MA  
-📅 *Expected graduation: December 2025*  
-
-🔍 Actively seeking **full-time opportunities** starting **December 2025** in **Data Engineering, Analytics, and AI-driven Systems**.  
+🎓 Master’s in Information Systems — Northeastern University, Boston, MA  
+🔍 Actively seeking **full-time opportunities** in **Data Engineering, Analytics, and AI-driven Systems**  
+🧩 ♟️ ♾️ — Logic enthusiast & Sudoku solver
 
 ---
 
 ## 💼 About Me  
-I’m a data-driven engineer passionate about building **scalable pipelines, intelligent analytics, and AI-powered solutions**. My experience spans data engineering, cloud platforms, and product development, with a strong focus on **supply chain, healthcare, and EdTech applications**. I enjoy solving complex problems by combining **data engineering, machine learning, and visualization** to drive actionable insights.  
+I’m a data-driven engineer passionate about building **scalable data pipelines, intelligent analytics, and AI-powered systems**. My experience spans **data engineering, cloud platforms, reinforcement learning, and agentic AI**, with applications across **supply chain, healthcare, public safety, and EdTech**.
+
+I enjoy designing end-to-end systems — from raw data ingestion to intelligent decision-making layers — and building products that translate complex data into real-world impact.
 
 ---
 
-## 🚀 Key Skills  
+## 🚀 Tech Stack  
 
-**Languages & Programming**  
-Python (Pandas, NumPy, PySpark, Scikit-Learn), SQL (T-SQL, Oracle, PostgreSQL, MySQL), R, Java, Scala  
+### 🧑‍💻 Languages & Programming
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg)
+![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)
 
-**Data Engineering & Pipelines**  
-Ab Initio, Spark, Databricks, Airflow, dbt, Talend, Alteryx, Hive, REST APIs, Data Modeling (Star/Snowflake schemas, SCDs)  
+---
 
-**Databases & Cloud Warehouses**  
-Snowflake, SQL Server, Oracle DB, PostgreSQL, BigQuery, MongoDB  
+### 🔄 Data Engineering, Orchestration & Agents
+![Apache Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg)
+![Databricks](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg)
+![Apache Airflow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-airflow/apache-airflow-original.svg)
+![dbt](https://avatars.githubusercontent.com/u/5429470?s=200&v=4)
+![CrewAI](https://img.shields.io/badge/CrewAI-Agentic%20AI-blueviolet)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
+![Hive](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-hive/apache-hive-original.svg)
 
-**Cloud Platforms**  
-Azure (Synapse, Data Factory, Purview, Key Vault, ADLS), AWS (S3, EC2, Redshift), GCP (BigQuery, Looker Studio)  
+**Concepts:** ELT/ETL, Incremental Models, SCDs, Data Validation, Star/Snowflake Schemas, RAG Pipelines, Agent Orchestration
 
-**Analytics & Visualization**  
-Power BI (DAX, drilldowns, dynamic filters), Tableau, Excel (PivotTables, Power Query, Macros), Snowsight  
+---
 
-**Tools & Frameworks**  
-Git, Streamlit, FastAPI, Docker, Terraform, Jira  
+### 🗄️ Databases & Warehouses
+![Snowflake](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+![BigQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+---
+
+### ☁️ Cloud Platforms
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)
+![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)
+
+---
+
+### 📊 Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
+![Tableau](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg)
+![Excel](https://img.shields.io/badge/Excel-PowerQuery-green)
+
+---
+
+### 🛠️ Tools & Frameworks
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)
+![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.svg)
+![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)
 
 ---
 
 ## 🌟 Featured Projects  
 
-**🔹 SkillPath AI | AI-Powered Personalized Learning Path Generator**  
-- Designed ELT pipelines in Snowflake + dbt to process 100K+ course records  
-- Integrated RAG + NLP to map resumes to learning paths, cutting course search time by **50%**  
-- Built a Streamlit UI and LLM chatbot, improving upskilling relevance by **35%**  
+### 🔹 Nova | Multi-Agent AI CRM Assistant  
+- Built an **agentic AI system using CrewAI** to route tasks across specialized agents (writer, summarizer, analyst)
+- Integrated **RAG pipelines** with vector search for contextual CRM insights
+- Orchestrated workflows using **n8n** for automation, alerts, and task chaining
+- Deployed backend services with **FastAPI** and interactive UI components
 
-**🔹 Reinforcement Learning for Multi-Warehouse Inventory Optimization**  
-- Built an agent-based RL framework (PPO & DQN) for inventory replenishment  
-- Achieved **98.8% service levels** while reducing costs by **48%** vs. baseline  
-- Deployed simulation dashboards in Streamlit to visualize policies and warehouse dynamics  
+---
 
-**🔹 Urban Collision Analytics**  
-- Processed **2.4M+ traffic collision records** with Talend + Python  
-- Built a dimensional model in ER Studio and delivered **geospatial dashboards** in Tableau/Power BI to analyze patterns across major US cities  
+### 🔹 SkillPath AI | AI-Powered Personalized Learning Platform  
+- Designed **ELT pipelines in Snowflake + dbt** to process **100K+ course records**
+- Applied **RAG + NLP** to map resumes to skill gaps, reducing course discovery time by **50%**
+- Built a **Streamlit UI + LLM chatbot**, improving upskilling relevance by **35%**
 
-**🔹 MediAid AI**  
-- Developed a medical assistant using RAG with Pinecone + LlamaIndex  
-- Enabled real-time search across **27K+ WHO/CDC docs** with 94% retrieval accuracy  
-- Integrated risk prediction models (heart disease, diabetes) with **87%+ accuracy**  
+---
+
+### 🔹 OptiStock AI | Reinforcement Learning for Inventory Optimization  
+- Developed **PPO & DQN-based RL agents** for multi-warehouse inventory replenishment
+- Achieved **98.8% service levels** while reducing inventory costs by **48%**
+- Visualized policy behavior and warehouse dynamics using **Streamlit dashboards**
+
+---
+
+### 🔹 FoodSafeIQ | Food Establishment Inspection Analytics  
+📌 **Project Overview**  
+Analyzed food inspection data from **Chicago and Dallas** to improve public health visibility by identifying inspection outcomes, violations, and facility risk patterns through an end-to-end analytics pipeline.
+
+**🛠️ Tech Stack**  
+- **ETL & Data Engineering:** Talend, Alteryx  
+- **Databases & Modeling:** SQL Server, MySQL, ER Studio  
+- **Programming & Validation:** Python (ydata_profiling, Jupyter)  
+- **Visualization:** Tableau, Power BI  
+
+**📂 Key Components**
+- **Data Staging:** Loaded raw CSVs into SQL Server and applied transformations using Talend (tMap, tNormalize, regex)
+- **Profiling & Validation:** Performed column-level profiling and business-rule validation using Python, SQL, and Alteryx
+- **Dimensional Modeling:** Designed a star schema with fact and dimension tables for analytical querying
+- **Analytics & BI:** Built interactive Tableau and Power BI dashboards for inspection trends and geospatial insights
+
+**📊 Key Insights**
+- ~19% of inspections resulted in failures, concentrated in **high-risk (Risk 1)** categories
+- Restaurants showed the highest violation frequency
+- Common violations included sanitation, allergen handling, and personal hygiene
+
+---
+
+### 🔹 MediAid AI | Medical RAG Assistant  
+- Built a **medical assistant using RAG** with Pinecone + LlamaIndex
+- Indexed **27K+ WHO/CDC documents** with **94% retrieval accuracy**
+- Integrated ML-based risk prediction models with **87%+ accuracy**
 
 ---
 
 ## 📝 Publication  
-📄 *"Stock Market Prediction Using ML Techniques"*  
-Published in IJSART, Volume 6, Issue 1 – Jan 2020  
+📄 *Stock Market Prediction Using ML Techniques*  
+Published in **IJSART**, Volume 6, Issue 1 — Jan 2020  
 
 ---
 
 ## 🌱 Current Focus  
-I’m currently deepening expertise in:  
-- **Snowflake & dbt performance optimization**  
-- **Reinforcement Learning for intelligent systems**  
-- **Cloud-native data engineering (Azure + AWS)**  
+- Snowflake & **dbt performance optimization**
+- **Agentic AI systems** using CrewAI & workflow orchestration
+- **Reinforcement Learning** for intelligent decision systems
+- Cloud-native data engineering on **Azure & AWS**
 
 ---
 
 ## 📫 Let’s Connect  
-📧 mohanan.a@northeastern.edu  
+📧 **mohanan.a@northeastern.edu**  
 🔗 [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)  
-🐙 [GitHub](https://github.com/anumohan10)  
+🐙 [GitHub](https://github.com/anumohan10)
