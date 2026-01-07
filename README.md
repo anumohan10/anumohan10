@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-I’m a data engineer with experience building **end-to-end data pipelines, analytics platforms, and AI-driven systems**.  
+I’m a data enthusiast with experience building **end-to-end data pipelines, analytics platforms, and AI-driven systems**.  
 My work spans **data engineering, cloud platforms, reinforcement learning, and agentic AI**, with applications across **supply chain, finance, and healthcare**.
 
 I focus on designing systems that go from **raw data → validated models → intelligent decision layers**, with an emphasis on **optimization, automation, and real-world impact**.
