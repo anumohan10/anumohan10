@@ -2,7 +2,7 @@
 
 🎓 Master’s in Information Systems — Northeastern University, Boston  
 🔍 Actively seeking **full-time roles** in **Data Engineering, Analytics, and AI Systems**  
-🧩 ![Sudoku](https://img.shields.io/badge/Sudoku-Logic%20Puzzles-blueviolet)
+
 
 ---
 
