@@ -1,127 +1,125 @@
 # 👋 Hi, I'm Anusree Mohanan
 
-🎓 Master’s in Information Systems — Northeastern University, Boston  
-🔍 Actively seeking **full-time roles** in **Data Engineering, Analytics, and AI Systems**  
-
+🎓 Master's in Information Systems — Northeastern University, Boston  
+🤖 **AI Engineer** — Building RAG systems, agentic workflows, and LLM-powered products in production  
+📍 Boston, MA | Open to US-based roles  
 
 ---
 
 ## 💼 About Me
 
-I’m a data enthusiast with experience building **end-to-end data pipelines, analytics platforms, and AI-driven systems**.  
-My work spans **data engineering, cloud platforms, reinforcement learning, and agentic AI**, with applications across **supply chain, finance, and healthcare**.
+I'm an AI Engineer with 3+ years of experience across **data engineering, LLM systems, and agentic AI**.  
+I build things that go from **raw data → retrieval pipelines → intelligent decision layers**, with a focus on **RAG architectures, multi-agent orchestration, and production-grade AI systems**.
 
-I focus on designing systems that go from **raw data → validated models → intelligent decision layers**, with an emphasis on **optimization, automation, and real-world impact**.
+My work spans **finance, healthcare, and enterprise operations** — from processing 3TB+ daily financial data at LTIMindtree to building privacy-safe RAG chatbots and shipping AI-native products with real users.
+
+I work daily with **Claude, GitHub Copilot, and Cursor** — AI-native tooling is part of how I build, not an afterthought.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧑‍💻 Languages & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+### 🤖 AI & Agentic Systems
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-blueviolet)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-green)
 
 ---
 
-### 🔄 Data Engineering, Orchestration & Agents
+### 🧑‍💻 Languages & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+
+---
+
+### 🔄 Data Engineering & Orchestration
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Agentic%20AI-blueviolet)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)
 
 ---
 
 ### 🗄️ Databases & Warehouses
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
 ### ☁️ Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
+---
+
+### 🛠️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
 ---
 
 ### 📊 Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-
----
-
-### 🛠️ Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 Nova — Multi-Agent AI CRM Assistant
-- Built an **agentic AI system using CrewAI** with specialized agents for analysis, summarization, and task execution  
-- Implemented **RAG pipelines** with vector search for contextual CRM insights  
-- Automated workflows and alerts using **n8n**, with backend services in **FastAPI**
+### 🔹 [MediAid AI — Medical RAG Assistant](https://github.com/anumohan10/Mediaid-AI) | [Live Demo](https://mediaid-ai.streamlit.app/)
+- Built an AI-powered medical platform using **RAG architecture with FAISS and LlamaIndex**, processing **27K+ medical documents** with **94% query accuracy** and sub-500ms response time
+- Integrated **Random Forest and XGBoost** models for disease risk prediction and personalized diet recommendations
+- Engineered agentic workflows using **Claude Code** for automated code generation and OCR-based medical document analysis with Tesseract, reducing manual processing time by **60%**
 
 ---
 
-### 🔹 SkillPath AI — Personalized Learning Path Platform
-- Designed **ELT pipelines in Snowflake + dbt** to process **100K+ course records**  
-- Applied **RAG + NLP** to map resumes to skill gaps, reducing course discovery time by **50%**  
-- Built a **Streamlit UI + LLM chatbot**, improving learning relevance by **35%**
+### 🔹 [SkillPath AI — AI Career Path & Upskilling Engine](https://github.com/anumohan10)
+- Architected a **RAG-based career planning platform** that embeds user resumes as vectors and retrieves role-specific skill requirements from **50K+ job postings**
+- Generates personalized learning paths using semantic search and LLM-powered recommendations across **100K+ educational resources**
+- Engineered a scalable in-warehouse data pipeline using **Snowflake Cortex**, dbt medallion architecture, and Docker-based orchestration
 
 ---
 
-### 🔹 OptiStock AI — Reinforcement Learning for Inventory Optimization
-- Developed **PPO & DQN-based RL agents** for multi-warehouse inventory replenishment  
-- Achieved **98.8% service levels** while reducing inventory costs by **48%**  
-- Visualized policy behavior and warehouse dynamics using **Streamlit dashboards**
+### 🔹 [Nova — AI-Powered Zero-Click CRM](https://github.com/anumohan10)
+- Built an end-to-end AI-powered CRM using **Vertex AI and Gemini Pro 2.5**, automating contact data extraction from **500+ daily interactions** at **92% field population accuracy**
+- Designed **prompt engineering and LLM orchestration** pipelines to turn unstructured interaction logs into queryable BigQuery records with no separate ETL layer
 
 ---
 
-### 🔹 FoodSafeIQ — Food Establishment Inspection Analytics
-- Built an **end-to-end ETL and analytics pipeline** using Talend, SQL Server, and Python for Chicago and Dallas inspection data  
-- Designed a **star-schema dimensional model** and validated inspection outcomes, risk categories, and violations  
-- Delivered **Tableau and Power BI dashboards** highlighting pass/fail rates, high-risk facilities, and geographic trends
+### 🔹 [Blog Content Creation — Agentic Workflow System](https://github.com/anumohan10)
+- Designed a **multi-agent automation system in n8n** with controller-based routing across specialized WriterAgent, IdeaAgent, and SummaryAgent using OpenAI
+- Built custom Python formatting tool and automated email delivery pipeline with error handling and fallback routing — reducing manual content production effort by **100%**
 
 ---
 
-### 🔹 Urban Crash Analytics
-- Processed **2.4M+ traffic collision records** using Talend and Python  
-- Designed a **dimensional data model** in ER Studio to enable analytical querying  
-- Built **geospatial dashboards in Tableau and Power BI** to analyze crash severity and trends across U.S. cities
-
----
-
-### 🔹 MediAid AI — Medical RAG Assistant
-- Built a **medical RAG assistant** using Pinecone and LlamaIndex  
-- Indexed **27K+ WHO/CDC documents** with **94% retrieval accuracy**  
-- Integrated ML-based health risk prediction models with **87%+ accuracy**
+### 🔹 [OptiStock AI — Agentic Inventory Optimizer](https://github.com/anumohan10)
+- Architected a **multi-agent orchestration system** for multi-warehouse inventory optimization using **DQN and PPO**, achieving **98.85% service level** and **39% cost reduction** over heuristic baselines
+- Developed custom agentic tools for cost simulation, decision explanation, and warehouse Q&A with UCB-based policy selection
 
 ---
 
 ## 📝 Publication
 📄 *Stock Market Prediction Using ML Techniques*  
-Published in **IJSART**, Volume 6, Issue 1 — Jan 2020
+Published in **IJSART**, Volume 6, Issue 1 — Jan 2020  
+🔗 [Read the paper](https://ijsart.com/public/storage/paper/pdf/IJSARTV6I135674.pdf) 
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 📧 **mohanan.a@northeastern.edu**  
 🔗 [LinkedIn](https://www.linkedin.com/in/anusree-mohanan/)  
 🐙 [GitHub](https://github.com/anumohan10)
