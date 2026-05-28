@@ -48,6 +48,22 @@ I work daily with **Claude, GitHub Copilot, and Cursor** — AI-native tooling i
 
 ---
 
+### 🧠 ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logoColor=white)
+![H2O AutoML](https://img.shields.io/badge/H2O-AutoML-yellow)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-lightgrey)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-Ensemble-green)
+![LSTM](https://img.shields.io/badge/LSTM-Time%20Series-blue)
+![ARIMA](https://img.shields.io/badge/ARIMA-Forecasting-9cf)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-Fine%20Tuning-purple)
+![LoRA](https://img.shields.io/badge/LoRA-Efficient%20Training-red)
+
+---
+
 ### 🗄️ Databases & Warehouses
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
@@ -115,6 +131,12 @@ I work daily with **Claude, GitHub Copilot, and Cursor** — AI-native tooling i
 ### 🔹 [UrbanCrash Analytics — Traffic Collision Data Platform](https://github.com/anumohan10)
 - Modeled a **multi-fact star schema in ER Studio** with shared dimensions across 3 fact tables, processing **2.4M+ records** from 3 U.S. cities and reducing query time by **40%** through optimized Talend and Python ETL pipelines
 - Produced **Tableau and Power BI dashboards** surfacing high-risk zones, contributing factors, and temporal patterns, enabling public-safety stakeholders to prioritize interventions
+
+---
+
+### 🔹 [Telecom Customer Retention — Churn Prediction](https://github.com/anumohan10)
+- Created churn prediction model using **H2O AutoML**, achieving **85% accuracy**, identifying high-risk customers and enabling targeted retention campaigns that reduced churn by **18%**
+- Established an interpretable ML dashboard with **SHAP analysis** and partial dependence plots, allowing business teams to understand key churn drivers and prioritize intervention strategies
 
 ---
 
