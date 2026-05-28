@@ -112,6 +112,12 @@ I work daily with **Claude, GitHub Copilot, and Cursor** — AI-native tooling i
 
 ---
 
+### 🔹 [UrbanCrash Analytics — Traffic Collision Data Platform](https://github.com/anumohan10)
+- Modeled a **multi-fact star schema in ER Studio** with shared dimensions across 3 fact tables, processing **2.4M+ records** from 3 U.S. cities and reducing query time by **40%** through optimized Talend and Python ETL pipelines
+- Produced **Tableau and Power BI dashboards** surfacing high-risk zones, contributing factors, and temporal patterns, enabling public-safety stakeholders to prioritize interventions
+
+---
+
 ## 📝 Publication
 📄 *Stock Market Prediction Using ML Techniques*  
 Published in **IJSART**, Volume 6, Issue 1 — Jan 2020  
