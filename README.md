@@ -103,38 +103,38 @@ I work daily with **Claude, GitHub Copilot, and Cursor** — AI-native tooling i
 
 ---
 
-### 🔹 [SkillPath AI — AI Career Path & Upskilling Engine](https://github.com/anumohan10)
+### 🔹 [SkillPath AI — AI Career Path & Upskilling Engine](https://github.com/anumohan10/SkillPathAI)
 - Architected a **RAG-based career planning platform** that embeds user resumes as vectors and retrieves role-specific skill requirements from **50K+ job postings**
 - Generates personalized learning paths using semantic search and LLM-powered recommendations across **100K+ educational resources**
 - Engineered a scalable in-warehouse data pipeline using **Snowflake Cortex**, dbt medallion architecture, and Docker-based orchestration
 
 ---
 
-### 🔹 [Nova — AI-Powered Zero-Click CRM](https://github.com/anumohan10)
+### 🔹 [Nova — AI-Powered Zero-Click CRM](https://github.com/anumohan10/Nova)
 - Built an end-to-end AI-powered CRM using **Vertex AI and Gemini Pro 2.5**, automating contact data extraction from **500+ daily interactions** at **92% field population accuracy**
 - Designed **prompt engineering and LLM orchestration** pipelines to turn unstructured interaction logs into queryable BigQuery records with no separate ETL layer
 
 ---
 
-### 🔹 [Blog Content Creation — Agentic Workflow System](https://github.com/anumohan10)
+### 🔹 [Blog Content Creation — Agentic Workflow System](https://github.com/anumohan10/Blog-Content-Creation-Agentic-System)
 - Designed a **multi-agent automation system in n8n** with controller-based routing across specialized WriterAgent, IdeaAgent, and SummaryAgent using OpenAI
 - Built custom Python formatting tool and automated email delivery pipeline with error handling and fallback routing — reducing manual content production effort by **100%**
 
 ---
 
-### 🔹 [OptiStock AI — Agentic Inventory Optimizer](https://github.com/anumohan10)
+### 🔹 [OptiStock AI — Agentic Inventory Optimizer](https://github.com/anumohan10/OptiStock-AI)
 - Architected a **multi-agent orchestration system** for multi-warehouse inventory optimization using **DQN and PPO**, achieving **98.85% service level** and **39% cost reduction** over heuristic baselines
 - Developed custom agentic tools for cost simulation, decision explanation, and warehouse Q&A with UCB-based policy selection
 
 ---
 
-### 🔹 [UrbanCrash Analytics — Traffic Collision Data Platform](https://github.com/anumohan10)
+### 🔹 [UrbanCrash Analytics — Traffic Collision Data Platform](https://github.com/anumohan10/UrbanCrash-Analytics)
 - Modeled a **multi-fact star schema in ER Studio** with shared dimensions across 3 fact tables, processing **2.4M+ records** from 3 U.S. cities and reducing query time by **40%** through optimized Talend and Python ETL pipelines
 - Produced **Tableau and Power BI dashboards** surfacing high-risk zones, contributing factors, and temporal patterns, enabling public-safety stakeholders to prioritize interventions
 
 ---
 
-### 🔹 [Telecom Customer Retention — Churn Prediction](https://github.com/anumohan10)
+### 🔹 [Telecom Customer Retention — Churn Prediction](https://github.com/anumohan10/Telecom-Customer-Insights-and-Retention-Analysis)
 - Created churn prediction model using **H2O AutoML**, achieving **85% accuracy**, identifying high-risk customers and enabling targeted retention campaigns that reduced churn by **18%**
 - Established an interpretable ML dashboard with **SHAP analysis** and partial dependence plots, allowing business teams to understand key churn drivers and prioritize intervention strategies
 
